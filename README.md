@@ -12,7 +12,7 @@ This mod was also heavily ispired by Stalker Games (primarly Stalker G.A.M.M.A  
 
 _**Also this is my first mod for The long dark so any feedback will be appreciated**._
 
-**Credit to the amazing moders on TLD modding discord server, because without them it would not be possible.**
+**Credit to the amazing modders on TLD modding discord server, because without them it would not be possible.**
 **Thanks alot Everyone!**
 ### Installation
 
