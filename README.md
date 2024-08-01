@@ -7,7 +7,7 @@ Any ideas for additional drugs/suplements are welcome!
 This mod was also heavily ispired by Stalker Games (primarly Stalker G.A.M.M.A  which i played for some time)
 
 1. The Vitamin c tablets can only be found and they give significant boost to your vitamin c level.
-2. Caffene tablets are also uncraftable and give pretty significant boost to your fatigue meter.
+2. Caffeine tablets are also uncraftable and give pretty significant boost to your fatigue meter.
 3. Sleeping pills are the opposite of Caffeine tablets, they make you tired more so you can sleep for longer
 
 _**Also this is my first mod for The long dark so any feedback will be appreciated**._
