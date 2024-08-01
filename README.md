@@ -1,5 +1,6 @@
 ![tld 2024-07-31 22-43-31](https://github.com/user-attachments/assets/4a2df62e-4ed8-4ec2-8761-305f90282f73)
 
+**StalkerAids&Supplements**
 
 
 a mod for The Long Dark, that adds Vitamin c, sleeping and caffeine tablets/suplements.
