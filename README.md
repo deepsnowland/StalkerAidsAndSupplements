@@ -1,5 +1,6 @@
-![Screenshot](https://github.com/user-attachments/assets/efff21c2-6396-4e0d-9456-ab2e1c79c714)
-### Stalker Aids&Supplements
+![tld 2024-07-31 22-43-31](https://github.com/user-attachments/assets/4a2df62e-4ed8-4ec2-8761-305f90282f73)
+
+
 
 a mod for The Long Dark, that adds Vitamin c, sleeping and caffeine tablets/suplements.
 All of the suplements are not craftable although that might change in some future updates.
