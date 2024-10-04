@@ -1,4 +1,6 @@
 ![tld 2024-07-31 22-43-31](https://github.com/user-attachments/assets/4a2df62e-4ed8-4ec2-8761-305f90282f73)
+![tld 2024-10-04 16-27-07](https://github.com/user-attachments/assets/8edc350e-b066-4201-b0a4-0b82056cf911)
+
 
 **StalkerAids&Supplements**
 
