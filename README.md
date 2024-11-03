@@ -27,5 +27,3 @@ _**Also this is my first mod for The long dark so any feedback will be appreciat
 
 - **Drop the** **.modcomponent** **file into your mods folder**.
 - **Enjoy**!
-
-![tld 2024-10-04 16-27-07](https://github.com/user-attachments/assets/8edc350e-b066-4201-b0a4-0b82056cf911)
