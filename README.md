@@ -1,4 +1,4 @@
-![Uploading moremedspic.png…]()
+![list_icon_stalkeraidsandsupplements](https://github.com/user-attachments/assets/c16a7b49-158b-47ef-b0b6-50f228717828)
 
 
 
