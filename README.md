@@ -1,4 +1,4 @@
-![tld 2024-07-31 22-43-31](https://github.com/user-attachments/assets/4a2df62e-4ed8-4ec2-8761-305f90282f73)
+![Uploading moremedspic.png…]()
 
 
 
