@@ -23,7 +23,7 @@ _**Also this is my first mod for The long dark so any feedback will be appreciat
 
 ### Installation
 
-- **Install** [[Modcomponent](https://github.com/dommrogers/ModComponent/releases/tag/6.3.1)] **and it's dependencies.**
+**Install** [[Modcomponent](https://github.com/dommrogers/ModComponent/releases/tag/6.3.1)] **and it's dependencies.**
 
 - **Drop the** **.modcomponent** **file into your mods folder**.
 - **Enjoy**!
