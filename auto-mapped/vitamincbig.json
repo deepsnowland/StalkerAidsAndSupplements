@@ -1,0 +1,102 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_VitamincBig",
+    "DescriptionLocalizatonId": "GAMEPLAY_VitamincBigDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.25,
+    "DaysToDecay": 1000,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "FirstAid",
+    "PickUpAudio": "Play_SndInvSewingKit",
+    "PutBackAudio": "Play_SndInvSewingKit",
+    "StowAudio": "Play_SndInvSewingKit",
+    "WornOutAudio": "Play_SndInvSewingKit",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "Cooking": false,
+    "CookingMinutes": 0,
+    "CookingUnitsRequired": 0,
+    "CookingWaterRequired": 0.0,
+    "CookingResult": "",
+    "BurntMinutes": 0,
+    "Type": "Grub",
+    "CookingAudio": "",
+    "StartCookingAudio": "",
+    "DaysToDecayOutdoors": 1000,
+    "DaysToDecayIndoors": 1000,
+    "Calories": 30,
+    "Servings": 24,
+    "EatingTime": 6,
+    "EatingAudio": "Play_FirstAidPills",
+    "EatingPackagedAudio": "Play_FirstAidPills",
+    "ThirstEffect": -15,
+    "FoodPoisoning": 0,
+    "FoodPoisoningLowCondition": 0,
+    "ParasiteRiskIncrements": [],
+    "Natural": false,
+    "Raw": false,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+    "AffectCondition": false,
+    "ConditionRestBonus": 0.0,
+    "ConditionRestMinutes": 0.0,
+    "AffectRest": false,
+    "InstantRestChange": 0.0,
+    "RestFactorMinutes": 0,
+    "AffectCold": false,
+    "InstantColdChange": 0.0,
+    "ColdFactorMinutes": 0,
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0.0,
+    "AlcoholUptakeMinutes": 0.0,
+    "VitaminC": 240
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_HarvestingCardboard",
+    "Minutes": 5,
+    "YieldCounts": [
+      1,
+      3
+    ],
+    "YieldNames": [
+      "Gear_PaperBox",
+      "GEAR_VitaminCA"
+    ],
+    "RequiredToolNames": []
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "Tablet",
+    "MultipleUnitTextId": "Tablets",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "",
+    "StackConditionDifferenceConstraint": 0.0
+  }
+}

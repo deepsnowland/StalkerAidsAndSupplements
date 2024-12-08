@@ -1,0 +1,67 @@
+{
+  "ModFirstAidComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_FirstAidKitPainkiller",
+    "DescriptionLocalizatonId": "GAMEPLAY_FirstAidKitPainkillerDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 2.5,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "FirstAid",
+    "PickUpAudio": "Play_SmallMetalBoxLocked",
+    "PutBackAudio": "Play_SmallMetalBoxLocked",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "ProgressBarMessage": "Healing",
+    "RemedyText": "Use",
+    "InstantHealing": 10,
+    "FirstAidType": "Painkiller",
+    "TimeToUseSeconds": 12,
+    "UnitsPerUse": 1,
+    "UseAudio": "Play_FirstAidPills"
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_HarvestingAmmo",
+    "Minutes": 15,
+    "YieldCounts": [
+      2,
+      6,
+      1
+    ],
+    "YieldNames": [
+      "GEAR_HeavyBandage",
+      "GEAR_BottlePainKillers",
+      "GEAR_Fentanyl"
+    ],
+    "RequiredToolNames": []
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "First Aid Kit",
+    "MultipleUnitTextId": "First Aid Kit",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_FirstAidKitPainKiller",
+    "StackConditionDifferenceConstraint": 0.0
+  }
+}

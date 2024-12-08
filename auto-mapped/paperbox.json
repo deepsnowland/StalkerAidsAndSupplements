@@ -1,0 +1,60 @@
+{
+  "ModTinderBehaviour": {
+    "DurationOffset": 2.5,
+    "SuccessModifier": 5.0
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_HarvestingCardboard",
+    "Minutes": 10,
+    "YieldCounts": [
+      3
+    ],
+    "YieldNames": [
+      "GEAR_Tinder"
+    ],
+    "RequiredToolNames": []
+  },
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_PaperBox",
+    "DescriptionLocalizatonId": "GAMEPLAY_PaperBoxDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.1,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvSewingKit",
+    "PutBackAudio": "Play_SndInvSewingKit",
+    "StowAudio": "Play_SndInvSewingKit",
+    "WornOutAudio": "Play_SndInvSewingKit",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "Paper Box",
+    "MultipleUnitTextId": "Paper Box",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "Gear_PaperBox",
+    "StackConditionDifferenceConstraint": 0.0
+  }
+}
