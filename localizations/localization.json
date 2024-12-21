@@ -4,210 +4,239 @@
         "Russian": "Таблетки с витамином С",
         "Turkish": "C Vitamini Tabletleri",
 		"Italian": "Pillole di Vitamina C",
-		"German": "Vitamin C Tabletten"
+		"German": "Vitamin C Tabletten",
+		"Japanese": "ビタミンC錠剤"
     },
     "GAMEPLAY_VitamincBigDescription": {
         "English": "Bunch of vitamin c tablets in a box.",
         "Russian": "Пачка таблеток витамина С в коробке.",
         "Turkish": "Bir kutu C vitamini tabletleri",
 		"Italian": "Un paio di pillole di vitamina C in una scatola.",
-		"German": "Einige Vitamin-C-Tabletten in einer Schachtel."
+		"German": "Einige Vitamin-C-Tabletten in einer Schachtel.",
+		"Japanese": "箱に入ったビタミンC錠剤の山。"
     },
     "GAMEPLAY_VitaminCA": {
         "English": "Vitamin C Tablets",
         "Russian": "Таблетки с витамином С",
         "Turkish": "C Vitamini Tabletleri",
 		"Italian": "Pillole di Vitamina C",
-		"German" : "Vitamin C Tabletten"
+		"German" : "Vitamin C Tabletten",
+		"Japanese": "ビタミンC錠剤"
     },
     "GAMEPLAY_VitaminCADescription": {
         "English": "Vitamin C tablets in blister pack",
         "Russian": "Таблетки витамина С в блистере",
         "Turkish": "Blister ambalajda C vitamini tabletleri",
 		"Italian": "Pillole di vitamina C in una confezione blister.",
-		"German":  "Vitamin C Tabletten in Blisterpackung"
+		"German":  "Vitamin C Tabletten in Blisterpackung",
+		"Japanese": "ブリスターパック入りのビタミンC錠剤。"
     },
     "GAMEPLAY_PaperBox": {
         "English": "Paper Box",
         "Russian": "Бумажная коробка из под лекарств",
         "Turkish": "Karton Kutu",
 		"Italian": "Scatola di Carta",
-		"German": "Pappschachtel"
+		"German": "Pappschachtel",
+		"Japanese": "紙箱"
     },
     "GAMEPLAY_PaperBoxDescription": {
         "English": "Old paper box, can be used as tinder.",
         "Russian": "Старая бумажная коробка из под лекарств. Может быть использована в качестве трута.",
         "Turkish": "Eski karton kutu, çıra olarak kullanılabilir.",
 		"Italian": "Vecchia scatola di carta, può essere utilizzata come esca per fuoco.",
-		"German":  "Alte Pappschachtel, kann als Zunder verwendet werden."
+		"German":  "Alte Pappschachtel, kann als Zunder verwendet werden.",
+		"Japanese": "古びた紙の箱、火口として使える。"
     },
     "GAMEPLAY_SugarA": {
         "English": "Sugar",
         "Russian": "Сахар",
         "Turkish": "Şeker",
 		"Italian": "Zucchero",
-		"German":  "Zucker"
+		"German":  "Zucker",
+		"Japanese": "砂糖"
     },
     "GAMEPLAY_SugarADescription": {
         "English": "Sugar in a jar, don't mistake it for salt!",
         "Russian": "Сахар в банке, не спутайте его с солью!",
         "Turkish": "Bir kavanoz şeker, Dikkat edin tuz ile karıştırmayın!",
 		"Italian": "Zucchero in un barattolo, non confonderlo con il sale!",
-		"German":  "Zucker im Glas: Nicht zu verwechseln mit Salz!"
+		"German":  "Zucker im Glas: Nicht zu verwechseln mit Salz!",
+		"Japanese": "瓶入りの砂糖、塩と間違えないように！"
     },
     "GAMEPLAY_SleepingPillsBig": {
         "English": "sleeping pills",
         "Russian": "Снотворное",
         "Turkish": "uyku hapları",
 		"Italian": "Sonniferi",
-		"German":  "Schlaftabletten"
+		"German":  "Schlaftabletten",
+		"Japanese": "睡眠薬"
     },
     "GAMEPLAY_SleepingPillsBigDescription": {
         "English": "Bunch of sleeping pills in a box.",
         "Russian": "Пачка снотворного в коробке.",
         "Turkish": "Bir kutu uyku hapları",
 		"Italian": "Un paio di sonniferi in una scatola.",
-		"German":  "Einige Schlaftabletten in einer Schachtel."
+		"German":  "Einige Schlaftabletten in einer Schachtel.",
+		"Japanese":"箱に入った睡眠薬の山。"
     },
     "GAMEPLAY_SleepingPills":{
         "English": "Sleeping pills",
         "Russian": "Снотворное",
         "Turkish": "Uyku hapları",
 		"Italian": "Sonniferi",
-		"German":  "Schlaftabletten"
+		"German":  "Schlaftabletten",
+		"Japanese": "睡眠薬"
     },
     "GAMEPLAY_SleepingPillsDescription": {
         "English": "Sleeping pills in blister pack",
         "Russian": "Снотворное в блистере",
         "Turkish": "Blister ambalajda uyku hapları",
 		"Italian": "Sonniferi in una confezione blister",
-		"German":  "Schlaftabletten in Blisterpackung"
+		"German":  "Schlaftabletten in Blisterpackung",
+		"Japanese": "ブリスターパック入りの睡眠薬。"
     },
     "GAMEPLAY_Rosehippot": {
         "English": "Bunch of rosehips",
         "Russian": "Гроздь шиповника",
         "Turkish": "Bir tutam kuşburnu",
 		"Italian": "Mucchio di Rose Canine",
-		"German":  "Ein Bund Hagebutten"
+		"German":  "Ein Bund Hagebutten",
+		"Japanese": "ローズヒップの山"
     },
     "GAMEPLAY_RosehippotDescription": {
         "English": "Bunch of rosehips in a pot, can be dried to make a delicious rosehip jam.",
         "Russian": "Гроздь шиповника в горшочке можно высушить, чтобы приготовить вкусное варенье из шиповника.",
         "Turkish": "Tencerede bir demet kuşburnu, lezzetli bir kuşburnu reçeli yapmak için kurutulabilir.",
 		"Italian": "Un mucchio di rose canine in una pentola, può essere essicata per trasformarle in una deliziosa marmellata di rosa canina.",
-		"German":  "Ein Bund Hagebutten im Topf, kann getrocknet werden, um daraus eine leckere Hagebuttenmarmelade zu machen."
+		"German":  "Ein Bund Hagebutten im Topf, kann getrocknet werden, um daraus eine leckere Hagebuttenmarmelade zu machen.",
+		"Japanese": "ローズヒップが山盛りにされた鍋、乾燥させれば美味しいローズヒップジャムを作れる。"
     },
     "GAMEPLAY_RosehipsDried": {
         "English": "Dried rosehips",
         "Russian": "Сушеные плоды шиповника",
         "Turkish": "Kurutulmuş kuşburnu",
 		"Italian": "Rose Canine Essicate",
-		"German":  "Getrocknete Hagebutten"
+		"German":  "Getrocknete Hagebutten",
+		"Japanese": "乾燥させたローズヒップ"
     },
     "GAMEPLAY_RosehipsDriedDescription": {
         "English": "Dried rosehips, can be eaten straight out of the pot or made into delicious rosehip jam.",
         "Russian": "Сушеные плоды шиповника можно есть прямо из банки или приготовить из них вкусное варенье из шиповника.",
         "Turkish": "Kurutulmuş kuşburnu, doğrudan yenebilir veya kuşburnu reçeli yapılabilir",
 		"Italian": "Rose canine essicate, puoi mangiarle direttamente dalla pentola oppure trasformarle in una deliziosa marmellata di rosa canina.",
-		"German":  "Getrocknete Hagebutten können direkt aus dem Topf gegessen oder zu köstlicher Hagebuttenmarmelade verarbeitet werden."
+		"German":  "Getrocknete Hagebutten können direkt aus dem Topf gegessen oder zu köstlicher Hagebuttenmarmelade verarbeitet werden.",
+		"Japanese": "乾燥させたローズヒップ、そのまま鍋から食べてもよし、美味しいローズヒップジャムにするのもよし。"
     },
     "GAMEPLAY_RosehipJam": {
         "English": "Rosehip Jam",
         "Russian": "Варенье из шиповника",
         "Turkish": "Kuşburnu Reçeli",
 		"Italian": "Marmellata di Rosa Canina",
-		"German":  "Hagebuttenmarmelade"
+		"German":  "Hagebuttenmarmelade",
+		"Japanese": "ローズヒップジャム"
     },
     "GAMEPLAY_RosehipJamDescription": {
         "English": "A delicious rosehip jam, let it rest for few days to achieve stronger flavor and thicker consistency.",
         "Russian": "Чтобы получить вкусное варенье из шиповника, оставьте его на несколько дней, чтобы оно приобрело более насыщенный вкус и густую консистенцию.",
         "Turkish": "",
 		"Italian": "Una deliziosa marmellata di rosa canina, lasciala riposare per un paio di giorni per ottenere un gusto più forte e una consistenza più densa.",
-		"German":  "Eine köstliche Hagebuttenmarmelade. Lassen Sie sie einige Tage ruhen, um ein kräftigeres Aroma und eine dickere Konsistenz zu erreichen."
+		"German":  "Eine köstliche Hagebuttenmarmelade. Lassen Sie sie einige Tage ruhen, um ein kräftigeres Aroma und eine dickere Konsistenz zu erreichen.",
+		"Japanese": "美味しいローズヒップジャム、風味と濃厚さを強めるため数日寝かせよう。"
     },
     "GAMEPLAY_RosehipJamRested": {
         "English": "Wild Rosehip Jam",
         "Russian": "Варенье из дикого шиповника",
         "Turkish": "Kuşburnu reçeli, daha lezzetli olması için ve daha yoğun bir kıvam elde etmek için birkaç gün dinlendirin.",
 		"Italian": "Marmellata di Rosa Canina Selvaggia",
-		"German":  "Wilde Hagebuttenmarmelade"
+		"German":  "Wilde Hagebuttenmarmelade",
+		"Japanese": "ワイルドローズヒップジャム"
     },
     "GAMEPLAY_RosehipJamRestedDescription": {
         "English": "Thick Wild rosehip jam with sugar. There's nothing better than the sweet taste of childhood.",
         "Russian": "Густое варенье из шиповника с сахаром. Нет ничего лучше сладкого вкуса из детства.",
         "Turkish": "Şekerli kalın yabani kuşburnu reçeli. Çocukluğun tatlı tadından daha iyi bir şey yoktur.",
 		"Italian": "Marmellata di rosa canina densa con zucchero. Niente di meglio che il dolce sapore dell'infanzia.",
-		"German":  "Dicke Hagebuttenmarmelade mit Zucker. Es gibt nichts Besseres als den süßen Geschmack der Kindheit."
+		"German":  "Dicke Hagebuttenmarmelade mit Zucker. Es gibt nichts Besseres als den süßen Geschmack der Kindheit.",
+		"Japanese": "砂糖が入った濃厚な野生のローズヒップのジャム。子供の頃味わった甘味に勝るものはない。"
     },
     "GAMEPLAY_FirstAidKitPainkiller": {
         "English": "First Aid Kit",
         "Russian": "Аптечка первой помощи",
         "Turkish": "İlk Yardım Çantası",
 		"Italian": "Kit di Pronto Soccorso",
-		"German":  "Erste-Hilfe-Kasten"
+		"German":  "Erste-Hilfe-Kasten",
+		"Japanese": "救急キット"
     },
     "GAMEPLAY_FirstAidKitPainkillerDescription": {
         "English": "An old first aid kit, still has some bandages, antiseptic and painkillers.",
         "Russian": "В старой аптечке первой помощи еще остались бинты, антисептики и обезболивающие.",
         "Turkish": "Eski bir ilk yardım çantasında hâlâ birkaç bandaj, antiseptik ve ağrı kesici var.",
 		"Italian": "Un vecchio kit di pronto soccorso, ha ancora delle bende, antisettico e antidolorifici.",
-		"German":  "Ein alter Erste-Hilfe-Kasten. Es sind noch einige Pflaster, Antiseptika und Schmerzmittel vorhanden."
+		"German":  "Ein alter Erste-Hilfe-Kasten. Es sind noch einige Pflaster, Antiseptika und Schmerzmittel vorhanden.",
+		"Japanese": "古びた救急キット、包帯、消毒薬、鎮痛剤がまだ幾つか残っている。"
     },
     "GAMEPLAY_Fentanyl": {
         "English": "Fentanyl",
         "Russian": "Фентанил",
         "Turkish": "Fentanil",
 		"Italian": "Fentanile",
-		"German": "Fentanyl"
+		"German": "Fentanyl",
+		"Japanese": "フェンタニル"
     },
     "GAMEPLAY_FentanylDescription": {
         "English": "Syringe containing Fentanyl, drug used to mitigate pain",
         "Russian": "Шприц, содержащий фентанил, препарат, используемый для смягчения боли",
         "Turkish": "Ağrıyı hafifletmek için kullanılan Fentanil ilacı içeren şırınga",
 		"Italian": "Siringa con Fentanile, droga usata per mitigare il dolore",
-		"German":  "Spritze mit Fentanyl, einem Medikament zur Schmerzlinderung"
+		"German":  "Spritze mit Fentanyl, einem Medikament zur Schmerzlinderung",
+		"Japanese": "痛み止めとして使用される薬物、フェンタニル入りの注射器。"
     },
     "GAMEPLAY_CaffeinetabletsBig": {
         "English": "Caffeine Tablets",
         "Russian": "Таблетки с кофеином",
         "Turkish": "Kafein Tabletleri",
 		"Italian": "Compresse di Caffeina",
-		"German":  "Koffeintabletten"
+		"German":  "Koffeintabletten",
+		"Japanese" : "カフェイン錠剤"
     },
     "GAMEPLAY_CaffeinetabletsBigDescription": {
         "English": "Bunch of caffeine tablets in a box.",
         "Russian": "Пачка таблеток с кофеином в коробке.",
         "Turkish": "Bir kutu kafein tabletleri",
 		"Italian": "Un paio di compresse di caffeina in una scatola.",
-		"German":  "Einige Koffeintabletten in einer Schachtel."
+		"German":  "Einige Koffeintabletten in einer Schachtel.",
+		"Japanese": "箱に入ったカフェイン錠剤の山。"
     },
     "GAMEPLAY_Caffeinetablets": {
         "English": "Caffeine Tablets",
         "Russian": "Таблетки с кофеином",
         "Turkish": "Kafein Tabletleri",
 		"Italian": "Compresse di Caffeina",
-		"German":  "Koffeintabletten"
+		"German":  "Koffeintabletten",
+		"Japanese" : "カフェイン錠剤"
     },
     "GAMEPLAY_CaffeinetabletsDescription": {
         "English": "Caffeine tablets in blister pack.",
         "Russian": "Таблетки с кофеином в блистере",
         "Turkish": "Blister ambalajda kafein tabletleri.",
 		"Italian": "Compresse di caffeina in una confezione blister.",
-		"German":  "Koffeintabletten in Blisterpackung."
+		"German":  "Koffeintabletten in Blisterpackung.",
+		"Japanese": "ブリスターパック入りのカフェイン錠剤。"
     },
     "GAMEPLAY_Anabiotics": {
         "English": "Anabiotics",
         "Russian": "Анабиотики",
         "Turkish": "Anabiyotikler",
 		"Italian": "Anabiotici",
-		"German":  "Anabiotika"
+		"German":  "Anabiotika",
+		"Japanese": "昏睡薬"
     },
     "GAMEPLAY_AnabioticsDescription": {
         "English": "An Experimental drug, contains tetrodotoxin, which completely shuts down central nervous system (blackout). Use at your own risk. It's higly recomended to take at least one week from last dosage.",
         "Russian": "Экспериментальный препарат, содержащий тетродоксин, который полностью отключает центральную нервную систему (затемнение). Используйте на свой страх и риск. Настоятельно рекомендуется принимать по крайней мере через неделю после приема последней дозы.",
         "Turkish": "Deneysel bir ilaçtır, merkezi sinir sistemini tamamen kapatan tetrodoksin içerir (bayılma). Kendi sorumluluğunuzda kullanın. Son dozajdan itibaren en az bir hafta geçmesi tavsiye edilir.",
 		"Italian": "Una droga sperimentale, contiene tetrodotossina, il quale causa un spegnimento completo del sistema nervoso centrale (blackout). Utilizzare a proprio rischio e pericolo. Consigliato di prendersi almeno una settimana dall'ultima somministrazione.",
-		"German":  "Ein experimentelles Medikament, das Tetrodotoxin enthält, das das zentrale Nervensystem vollständig lahmlegt (Blackout). Die Anwendung erfolgt auf eigene Gefahr. Es wird dringend empfohlen, das Medikament nach der letzten Dosis mindestens eine Woche lang einzunehmen."
-"
+		"German":  "Ein experimentelles Medikament, das Tetrodotoxin enthält, das das zentrale Nervensystem vollständig lahmlegt (Blackout). Die Anwendung erfolgt auf eigene Gefahr. Es wird dringend empfohlen, das Medikament nach der letzten Dosis mindestens eine Woche lang einzunehmen.",
+		"Japanese": "テトロドキシンを含む実験的な薬物であり、中枢神経を完全に遮断（ブラックアウト）する。自己責任で使用すること。 前回の服用から最低でも1週間が経過してから使用することを強く勧めるものである。"
     },
 }
