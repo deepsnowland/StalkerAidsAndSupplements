@@ -3,6 +3,11 @@
 **stalker Aids And Supplements is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
 
+### Attention!!!
+
+Make Absolutely sure that you don't have this mod installed twice, if you're updating from an older version make absolutely
+sure that you deleted the MoreMeds.modcomponent file, before installing the newest one.
+
 ### StalkerAids&Supplements
 
 a mod for The Long Dark, that adds Various new Medical/Food Items
