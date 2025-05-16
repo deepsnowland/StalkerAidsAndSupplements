@@ -1,4 +1,4 @@
-![list_icon_stalkeraidsandsupplements](https://github.com/user-attachments/assets/c16a7b49-158b-47ef-b0b6-50f228717828)
+![screen_ab7c1102-72dd-4b1e-a43d-87eae9035fab_hi](https://github.com/user-attachments/assets/d74d806d-4f22-4ead-be39-bc80dd687fe1)
 
 **stalker Aids And Supplements is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
