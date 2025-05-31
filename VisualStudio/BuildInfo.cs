@@ -8,7 +8,7 @@
 // Ensure you change the namespace to whatever namespace your mod uses, so it doesnt conflict with other mods
 // ---------------------------------------------
 
-namespace StalkerAidsAndSupplements
+namespace RepairablesMod
 {
 	/// <summary></summary>
 	public static class BuildInfo
@@ -18,14 +18,14 @@ namespace StalkerAidsAndSupplements
 		/// <remarks>
 		/// <para>This is used in logs that relate to this mod. So this should always be Alphanumerical, without exception</para>
 		/// </remarks>
-		public const string Name                            = "StalkerAidsAndSupplements";
+		public const string Name                            = "Repairable Repairables";
 		/// <summary>Who made the mod</summary>
 		public const string Author                          = "Sm4rtBoyTom";
 		/// <summary>Current version</summary>
 		/// <value>This should always be <see href="https://semver.org">Semantic Versioning</see></value>
-		public const string Version                         = "2.1.0";
+		public const string Version                         = "1.0.0";
 		/// <summary>Name used on GUI's, like ModSettings</summary>
-		public const string GUIName                         = "StalkerAidsAndSupplements";
+		public const string GUIName                         = "Repairable Repairables";
 		/// <summary>The minimum Melon Loader version that your mod requires</summary>
 		/// <remarks>
 		/// <para>This should only be increased if you actually require a newer version of MelonLoader. NEVER change it before an update has been properly tested</para>
@@ -40,7 +40,7 @@ namespace StalkerAidsAndSupplements
 		/// <para>This is currently unused</para>
 		/// <para>When implemented, this will show the previous authors of this mod</para>
 		/// </remarks>
-		public const string[] PreviousAuthors              = null;
+		public const string[] PreviousAuthors              	= null;
 		/// <summary>What the mod does</summary>
 		public const string Description                     = null;
 		/// <summary>Company that made it</summary>
