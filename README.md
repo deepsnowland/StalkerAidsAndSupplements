@@ -26,5 +26,5 @@ This mod was also heavily inspired by Stalker Games
 
 **Install** [[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.0.6)] **and it's dependencies.**
 
-- **Drop the** **.modcomponent and .dll** **files into your mods folder**.
+- **Extract the** **.modcomponent and .dll** **files from the zip file and put both files into your mods folder**.
 - **Enjoy**!
